@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="action_info">More Information</string>
+    <string name="info_dialog_message">Inspired by Modern Artist.  For more info, visit MOMA!</string>
+    <string name="info_dialog_ok">Visit MOMA</string>
+    <string name="info_dialog_cancel">Not Now</string>
+</resources>
